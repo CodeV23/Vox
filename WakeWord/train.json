@@ -1,0 +1,6154 @@
+[
+  {
+    "path": "data\\pos\\vox_098.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_023.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923216_002.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_045.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923216_001.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_457.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_296.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1281823_033.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_333.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923195_002.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923103_005.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_112.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_212.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_036.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_026.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_004.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_135.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1040.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_009.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_565394_012.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_086.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_068.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923277_003.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_269.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1281823_024.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_396.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_016.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_012.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1335448_033.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_001.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_221.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_372341_049.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923103_007.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_681049_022.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0937.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_428.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_000.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_372341_019.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0918.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_578451_018.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_041.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_022.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0905.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923113_006.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_389.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_681049_025.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_578451_049.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_372341_039.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1070.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_371.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_186.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_136.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_372341_017.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0990.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_017.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0939.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0969.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1054.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_027.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923267_005.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0901.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_030.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1278275_012.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_004.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1335448_005.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1031.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_008.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_447.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1038.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_298.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_000.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_372341_021.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1060.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_365.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_565394_005.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0952.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_391.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_372341_027.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_048.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1080.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_019.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762922928_008.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1278275_024.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923277_000.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1020.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_565394_009.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_017.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_037.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_372341_034.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_565394_045.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_004.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_218.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1320641_026.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0946.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_219.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_043.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0921.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923000_003.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1043.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_681049_006.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_000.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_435.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923185_006.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_039.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_028.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_137.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1037.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_033.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_010.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_028.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1025.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_101.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1423474_037.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923175_003.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_039.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_372341_025.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_565394_000.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1018.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1061.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923257_005.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_049.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_043.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_003.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_057.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_398.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_020.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0985.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_040.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_042.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0893.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_043.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_249.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_322.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_018.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923175_001.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_185.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_015.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_258.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_013.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_008.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_376.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_044.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_415.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_372341_020.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923206_005.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1423474_014.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_414.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_364488_027.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1026.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1335448_006.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_337.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_188.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_023.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1062.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_467.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923288_002.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923175_005.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_046.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_032.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0991.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_024.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1423474_015.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_032.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_454.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1335448_001.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_048.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923206_009.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_034.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_210.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_039.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1281823_036.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0968.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923082_007.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_015.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_091.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923247_001.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_565394_019.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923134_000.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_565394_004.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_044.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_372341_014.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_035.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_413.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_114.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923093_004.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_048.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_380.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_008.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_071.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_224.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_160.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0960.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_301.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_681049_001.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_107.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_565394_015.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_386.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_035.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0994.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_035.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_045.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_681049_015.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_194.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1034.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_318.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923277_004.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_099.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_034.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_043.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1335448_026.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_024.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0913.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_129.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_358.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_009.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_024.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_385.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0959.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_372341_042.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_363.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_008.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923134_006.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_341.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_399.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_387.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1335448_042.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_169.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1281823_012.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0984.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0900.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_047.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_364488_035.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_020.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_027.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0975.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_059.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1047.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1088.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0932.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_681049_002.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_354.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_372341_029.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0965.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0970.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_032.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_018.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_176.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_094.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1320641_021.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_372341_006.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_140.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_565394_042.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1278275_008.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_042.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_306.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923093_002.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_364488_045.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1278275_015.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_034.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923195_008.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_400.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923195_007.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762922928_005.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1423474_005.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0979.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1013.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_028.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_084.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1083.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923144_007.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_191.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0986.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1059.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_364488_028.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0934.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_025.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923277_006.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_038.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1320641_012.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_372341_044.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1335448_028.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_010.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_161.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_565394_021.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_049.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0997.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_348.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_475.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_113.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0982.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_016.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_038.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1423474_043.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_010.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_039.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1278275_040.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_003.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0964.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_011.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_327.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_035.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_302.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1423474_012.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_017.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_031.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923247_006.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_048.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_015.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_432.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_364488_039.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_006.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_407.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_131.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_038.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_472.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_049.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1069.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0930.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923113_001.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_080.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_010.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923000_005.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_244.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_372341_000.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_041.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_241.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_372341_028.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_372341_018.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762922928_002.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923103_001.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_404.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1024.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_049.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_003.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_364488_041.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1423474_002.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1335448_044.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_016.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_089.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_001.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_092.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923206_000.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_003.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_013.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_128.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_019.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_226.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_013.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0891.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1423474_008.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_028.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_170.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_578451_006.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0940.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_156.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1278275_030.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_233.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_409.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_000.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1320641_019.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1278275_034.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923277_009.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_000.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_045.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_035.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_364488_042.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_372341_005.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1320641_003.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1320641_025.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_372341_041.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_006.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0928.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1335448_045.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_332.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0929.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_198.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_281.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1074.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_172.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923134_008.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0957.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1036.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_366.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1022.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_017.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_016.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_042.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_038.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_018.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1078.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_033.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923185_007.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0936.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1423474_024.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_042.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_275.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_006.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_011.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1081.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923185_005.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_313.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0912.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_014.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_018.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_008.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1320641_001.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_047.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_418.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_351.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1089.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_002.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923093_008.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_248.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_394.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_037.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_022.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1320641_029.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_410.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_364488_037.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_476.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_016.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1335448_021.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_044.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_578451_034.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0981.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_047.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_016.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923216_006.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_403.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923103_008.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_174.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_180.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_021.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1320641_034.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_565394_046.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_035.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_004.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_024.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_305.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_309.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_441.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923195_000.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_384.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_147.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923093_009.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_433.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1423474_011.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_265.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_364488_044.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_178.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_023.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_681049_017.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_417.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1281823_035.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_032.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_035.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923165_009.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_069.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1423474_036.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_395.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923134_003.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_317.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_097.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0904.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_048.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1095.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_239.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_011.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_247.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0942.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_440.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0973.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1423474_041.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_373.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_036.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_152.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_378.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_020.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1278275_036.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1032.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923103_003.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_060.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1320641_014.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_058.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_364488_029.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_023.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_116.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_005.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1320641_030.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762922949_003.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1335448_008.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0948.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_162.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_046.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0953.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_046.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_037.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923175_008.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923103_006.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923062_004.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1086.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_062.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1011.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_369.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_019.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_011.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_150.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762922898_002.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_067.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1423474_016.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_009.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_213.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923267_004.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923288_005.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923082_003.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0988.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_196.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923277_008.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_436.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762922887_009.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_565394_020.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_426.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_565394_010.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_343.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_039.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_364488_026.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1278275_013.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1320641_020.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_037.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923257_007.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_028.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_030.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_434.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_565394_030.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1423474_047.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_108.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_340.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_353.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_372341_036.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_032.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0906.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923144_003.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_041.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_565394_013.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_189.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1071.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_465.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923113_005.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923206_008.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_183.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_021.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1335448_037.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_021.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_578451_005.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_009.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1023.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_262.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_014.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_455.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_040.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_008.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_461.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_003.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_030.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923082_006.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_013.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_425.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923247_009.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762922918_008.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_130.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_578451_040.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1021.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_326.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1335448_011.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923226_006.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_024.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_012.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_279.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923257_001.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_236.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_565394_006.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1029.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0919.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_206.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923226_001.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_245.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_072.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0962.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0980.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_304.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_243.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_033.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_307.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_001.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_043.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1423474_025.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_002.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923236_001.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_076.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923175_006.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_181.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1423474_038.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_163.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1067.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_005.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1077.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1335448_038.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_102.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_681049_011.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923195_004.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_324.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_452.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923216_009.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_315.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_049.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_046.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1335448_046.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923113_009.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_237.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0949.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1033.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_439.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1281823_025.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_123.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_260.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_034.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_323.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923185_008.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_155.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_158.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_681049_005.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923206_004.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_075.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923072_001.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_423.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_066.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_578451_027.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762922939_006.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_040.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_052.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_192.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0951.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_021.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_565394_011.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762922928_000.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_299.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_027.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0993.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_106.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_033.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923288_004.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_308.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0922.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_055.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_046.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_288.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1045.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1094.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_028.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_320.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_187.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_382.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_238.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1320641_041.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_372341_046.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_364488_031.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_297.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_565394_034.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923124_001.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923226_000.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_027.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_049.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1320641_008.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_200.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1335448_014.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_017.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_124.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1335448_047.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_201.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1005.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_005.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_049.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_565394_047.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_285.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_477.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_026.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_045.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_681049_024.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_024.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_364.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_005.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_002.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1044.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1035.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923216_000.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0910.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_565394_028.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1057.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_001.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_232.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_007.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_095.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_017.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_471.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923062_009.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0892.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_036.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_252.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923175_009.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1423474_000.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_565394_048.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_031.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_087.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_199.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923113_003.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_010.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_001.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_290.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923226_009.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_294.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_360.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_270.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_375.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_565394_036.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_565394_031.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_578451_014.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_681049_020.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_038.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_041.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_565394_044.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1072.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_004.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923247_007.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1335448_048.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_047.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_036.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_474.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_004.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_025.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_257.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1335448_004.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_282.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_031.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_032.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1039.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923000_006.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_019.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923257_003.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_284.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0897.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1281823_005.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_022.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_364488_038.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_034.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1320641_027.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_202407_1762912473_007.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923277_005.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_383.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_456.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_109.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_033.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_027.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_012.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_361.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_008.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923093_005.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1423474_039.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_392.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0908.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1085.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923134_001.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_367.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_042.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923195_001.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_125.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_045.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0931.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_319.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_040.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1335448_015.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_254.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_033.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1278275_028.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_048.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_077.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_207.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1320641_032.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_419.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_397.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0924.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_030.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_331.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_026.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_006.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_565394_035.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1335448_032.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1423474_033.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_025.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1042.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_003.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_018.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923247_004.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923247_003.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_175.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_390.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1016.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_048.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_578451_004.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_004.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_372341_035.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1423474_032.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_364488_032.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0916.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1335448_041.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_132.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_021.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_046.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923257_009.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_033.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1423474_010.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_011.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_031.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1003.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_041.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0898.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_364488_049.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_070.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0896.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_364488_043.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_370.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_053.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_029.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0998.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1320641_049.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_012.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_083.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_264.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1335448_029.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1001.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_292.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1079.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1010.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_357.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_032.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_478.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_222.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_347.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_027.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_272.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_016.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_578451_035.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762922887_004.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_015.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_007.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923288_006.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1320641_036.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_034.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1281823_021.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1335448_030.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923226_004.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1278275_005.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_027.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1320641_011.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923267_001.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_578451_020.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762922918_005.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_029.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_173.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_578451_041.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_427.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_036.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0926.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0915.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_356.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1335448_025.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_029.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_001.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_459.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_287.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_023.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923062_005.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_231.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923247_000.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1051.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923175_000.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0983.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_565394_026.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923144_000.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_044.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1087.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_005.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_412.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1002.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1320641_046.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_372.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_565394_041.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1423474_023.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_025.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_043.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1320641_006.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_027.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_020.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_372341_009.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923216_003.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_372341_010.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_411.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_578451_017.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1084.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_216.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_063.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_438.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762922918_004.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923144_006.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_045.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_430.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_046.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_020.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1335448_034.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0954.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_159.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0941.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_035.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1278275_023.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1320641_047.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_565394_001.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_082.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923144_002.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_031.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_578451_029.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_355.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_286.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_246.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_006.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0961.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_006.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_463.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_289.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_250.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923267_006.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923041_003.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923113_007.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1027.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1015.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_578451_039.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923277_007.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1092.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_259.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1000.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_271.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_565394_039.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_002.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_578451_031.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0992.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_165.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_372341_030.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1281823_037.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923175_002.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_000.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1082.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1423474_035.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923093_003.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_046.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0967.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1066.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923257_000.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_466.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_044.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1004.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_336.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923226_008.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923185_004.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_043.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1335448_007.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_017.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1052.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_139.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_480.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_364488_034.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_000.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_007.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_044.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1281823_032.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_681049_026.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762922908_009.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923113_004.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0943.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_014.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1055.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_184.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_040.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_012.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1028.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_110.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_038.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1278275_022.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_013.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0999.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_047.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_005.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_028.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0902.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_154.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_255.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_422.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923072_007.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_012.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0944.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_029.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_203.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923206_001.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_013.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_372341_022.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_437.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1281823_038.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_074.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1017.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_002.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_372341_031.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762922928_009.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_041.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_256.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_047.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_025.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_312.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_565394_029.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_029.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923257_008.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1423474_040.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_372341_016.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0917.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923195_003.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_177.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_359.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_003.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_372341_008.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_037.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1335448_003.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_036.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0890.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_018.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1320641_031.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923195_009.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923247_005.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_000.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1063.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923236_009.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_368.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_372341_001.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1093.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_372341_033.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_266.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923226_002.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_372341_037.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0899.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1068.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923257_006.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_024.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923236_008.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_021.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1278275_027.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_013.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_146.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_015.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0976.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_416.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1278275_003.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_003.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1278275_025.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1335448_009.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923103_000.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_372341_032.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_578451_019.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1335448_043.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_033.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_025.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_364488_033.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0938.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_021.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_228.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_078.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1423474_004.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_565394_038.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1423474_027.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1335448_035.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_056.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0909.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1050.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_578451_038.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0950.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923185_002.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_010.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_015.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0903.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1048.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_408.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_048.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_469.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_007.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923247_008.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0947.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_026.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_421.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_468.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_047.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_079.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1014.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_227.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_041.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_578451_000.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923082_001.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1075.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0911.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_379.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_050.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1076.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_374.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_344.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_372341_015.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_328.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_372341_011.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0955.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_215.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_372341_024.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_443.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0963.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_681049_014.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0977.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923257_004.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_085.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_267.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_012.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_314.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1320641_039.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1335448_049.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_073.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1320641_024.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_316.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_372341_023.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_565394_014.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1423474_013.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_007.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1320641_037.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_036.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_565394_023.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923124_000.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_273.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0914.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_007.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_090.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923175_007.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_372341_043.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_032.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_105.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_578451_009.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_565394_016.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_021.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923124_006.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_429.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0933.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_444.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923185_009.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923165_008.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_036.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_681049_018.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_225.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_242.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_026.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_283.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_217.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923236_002.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1320641_045.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_016.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_578451_010.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923247_002.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1320641_015.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_034.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_565394_043.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923195_005.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0987.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923062_007.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1423474_042.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0945.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_277.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1423474_022.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_022.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_449.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1320641_002.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_153.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_208.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1335448_016.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_022.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_019.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_151.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1423474_028.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_020.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923236_007.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_274.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_009.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_364488_048.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762922939_003.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923267_008.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_431.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923113_008.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923277_002.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1278275_016.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1335448_027.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_578451_045.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1090.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_171.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_081.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1423474_006.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923072_002.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1335448_036.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_251.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1058.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762922928_001.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_142.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_143.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_393.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_167.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_026.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_117.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_334.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1281823_023.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_015.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_010.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1423474_020.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_103.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_118.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923267_007.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_372341_038.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1320641_013.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1423474_007.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_120.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_458.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923226_005.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_401.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_329.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_030.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1320641_048.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_041.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923195_006.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_014.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923124_009.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1030.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_004.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1007.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_349.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_017.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_040.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_450.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_019.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_008.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1064.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_352.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762922928_006.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_681049_010.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_030.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1320641_009.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_104.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_204.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1320641_035.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_039.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_157.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923082_005.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_031.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_009.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_388.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_578451_025.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_295.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_001.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_023.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_372341_048.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_405.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923082_002.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_229.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0925.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1056.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_126.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_205.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_111.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_040.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1073.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1099.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0956.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_014.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_030.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_197.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_402.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1065.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_565394_032.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923052_002.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_002.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1423474_001.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1335448_040.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_276.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_039.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_451.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_028.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923185_001.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762922939_001.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_038.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_681049_028.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0907.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_064.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_141.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_481.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_121.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_002.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_148.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_014.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_047.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1423474_030.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762922887_003.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1320641_043.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1423474_029.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_043.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0923.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_134.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_473.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923072_009.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_253.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_007.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_045.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_029.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0995.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_578451_042.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923267_003.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_424.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_565394_022.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_446.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1098.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_364488_047.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1278275_037.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_005.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_350.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1320641_033.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_007.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_268.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_263.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1281823_028.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_144.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_029.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_179.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_019.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_014.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923000_004.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_119.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762922939_007.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923257_002.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0974.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_235.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_039.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_034.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0894.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_364488_030.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_001.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1281823_022.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1320641_005.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_342.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0996.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_578451_032.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_681049_003.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_037.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_565394_037.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_018.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923236_000.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_372341_040.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_223.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_025.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_377.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_009.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923124_004.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_006.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_012.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_335.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_022.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923216_008.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_681049_027.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_038.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_022.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_042.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1320641_000.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_240.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_023.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1320641_042.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923093_001.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1281823_007.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_042.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_364488_012.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1012.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1019.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_133.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_364488_025.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_681049_013.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_578451_021.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_339.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_372341_045.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_325.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_230.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_096.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_190.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1097394_044.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_029.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_291.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_681049_000.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0972.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1049.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1423474_019.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1018029_009.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1423474_021.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923124_002.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1320641_004.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_681049_004.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923072_003.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_681049_021.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923124_008.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_300.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_023.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_026.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1041.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_006.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_565394_003.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_448.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923267_009.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1335448_031.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_445.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_138.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923134_005.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1053.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923277_001.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_681049_012.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_202407_1762910873_002.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_115.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0895.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_578451_036.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_462.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1335448_000.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_578451_046.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_020.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923144_001.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1008.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_030.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_346.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_681049_023.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1281823_034.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_362.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_010.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_372341_002.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_149.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_037.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_578451_033.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_026.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923134_002.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_565394_040.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_442.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0958.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0989.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_345.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0978.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_011.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_011.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_037.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_031.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_211.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_681049_008.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_166.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923206_007.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_479.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_565394_017.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_093.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_145.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_031.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_406.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1423474_003.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0971.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_372341_026.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_372341_047.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923216_007.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1320641_038.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_164.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1006.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_261.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1281823_049.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_024.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_088.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923124_007.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_364488_040.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0935.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0966.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_202.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1009.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_193.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_681049_019.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0920.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_453.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_330.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_044.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_0927.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1097.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_018.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_338.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_013.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923185_000.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1423474_031.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1070619_002.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_464.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1091.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_681049_016.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_632374_025.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_040.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_005.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_420.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1335448_010.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_054.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_364488_036.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1111126_020.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762922918_001.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_460.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_195.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_061.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_065.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\neg_1096.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1423474_034.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_182.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_1320641_022.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_681049_007.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_578451_007.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_214.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_660662_049.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_293.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_470.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923062_008.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg\\background_20251111_234807_1762923175_004.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\neg_peoples\\ps_681049_009.wav",
+    "label": 0
+  },
+  {
+    "path": "data\\pos\\vox_051.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\pos\\vox_234.wav",
+    "label": 1
+  },
+  {
+    "path": "data\\neg_peoples\\ps_469241_019.wav",
+    "label": 0
+  }
+]

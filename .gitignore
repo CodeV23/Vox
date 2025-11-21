@@ -1,0 +1,40 @@
+# ---- Python & Environment ----
+venv/
+voxenv/
+.env
+.venv/
+__pycache__/
+*.pyc
+
+# ---- VSCode junk ----
+.vscode/
+*.code-workspace
+
+# ---- Ollama ----
+.ollama/
+
+# ---- Spotify OAuth cache ----
+.spotify_cache
+*token.json
+
+# ---- WakeWord training data ----
+WakeWord/data/
+WakeWord/*.npz
+WakeWord/*.json
+WakeWord/*.pt
+WakeWord/*.pth
+
+# ---- Model artifacts ----
+*.pt
+*.pth
+*.npz
+*.onnx
+
+# ---- Build / cache ----
+*.log
+.DS_Store
+
+# ---- Node / Frontend (future-proofing) ----
+node_modules/
+dist/
+build/"
