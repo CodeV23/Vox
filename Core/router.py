@@ -10,36 +10,28 @@ class Router:
             "chef": ChefAgent(),
         }
 
-        self.valid_labels = ", ".join(self.agent_map.keys()) + ", none"
-
     def classify(self, text: str) -> str:
-        system_prompt = (
-            "You are Voxel's routing brain.\n"
-            f"Valid labels: {self.valid_labels}.\n"
-            "Pick the correct label for the user's request.\n"
-            "- If it's about music, playlists, songs, vibes → music\n"
-            "- If it's about recipes, cooking, ingredients → chef\n"
-            "- Otherwise → none\n"
-            "Respond with ONE WORD ONLY."
-        )
-
         response = ollama.chat(
-            model="phi3:mini",               # SUPER FAST
-            options={"num_predict": 1},      # classification only
+            model="phi3:mini",
+            options={"num_predict": 1},
             messages=[
-                {"role": "system", "content": system_prompt},
-                {"role": "user", "content": text}
+                {
+                    "role": "system",
+                    "content": (
+                        "Route the request:\n"
+                        "- music: songs, artists, playlists, listening\n"
+                        "- chef: cooking, food, recipes\n"
+                        "- research: research, brainstorming, writing\n"
+                        "- none: anything else\n"
+                        "Reply with ONE WORD."
+                    ),
+                },
+                {"role": "user", "content": text},
             ],
         )
 
-        raw = response["message"]["content"].strip().lower()
-        label = raw.split()[0]
-
-        if label not in self.agent_map and label != "none":
-            label = "none"
-
-        return label
+        label = response["message"]["content"].strip().lower()
+        return label if label in self.agent_map else "none"
 
     def route(self, text: str):
-        label = self.classify(text)
-        return self.agent_map.get(label, None)
+        return self.agent_map.get(self.classify(text))
